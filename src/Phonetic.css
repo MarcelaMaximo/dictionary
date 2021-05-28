@@ -1,0 +1,11 @@
+.Phonetic {
+  margin-top: 15px;
+}
+.Phonetic a {
+  text-decoration: none;
+  margin-right: 10px;
+}
+.Phonetic .text {
+  opacity: 0.4;
+  font-weight: bold;
+}
